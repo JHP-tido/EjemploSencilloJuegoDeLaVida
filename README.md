@@ -2,5 +2,5 @@
 
 ## Ejemplo hecho en C++ y en Python
 
-C++ implementado
-Python a implementar
+* C++ implementado
+* Python a implementar
